@@ -1,5 +1,7 @@
 These diagrams provide physical documentation of the facility's network infrastructure, mapping out key routing hubs, building-wide wireless coverage, and a high-speed production data line. They streamline Layer-1 troubleshooting and aid in capacity planning for future projects.
 
+All diagrams were designed in Draw.io.
+
 -Front Office Phone RM
 This room operates as a secondary networking hub branching off from the main server room. The location houses core switches and integration points for analog phone lines, storm alarms, and the facility PA system. A second network hub (H-ME-Office) branches back to this location; specific topologies are detailed in a separate diagram.
 
